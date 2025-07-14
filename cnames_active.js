@@ -1098,6 +1098,7 @@ var cnames_active = {
   "fireorm": "wovalle.github.io/fireorm",
   "fireworks": "crashmax-dev.github.io/fireworks-js",
   "first-accord": "sticknologic.github.io/First-Accord",
+  "edwong": "wangduanduan.github.io",
   "fish": "cdaringe.github.io/fish",
   "five": "jackdcrawford.github.io/five",
   "flamecord": "flamexode.github.io/flamecord",
